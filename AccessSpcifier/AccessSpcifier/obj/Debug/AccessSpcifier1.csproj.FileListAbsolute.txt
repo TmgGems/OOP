@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpcifier\bin\Debug\AccessSpcifier.exe.config
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpcifier\bin\Debug\AccessSpcifier.exe
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpcifier\bin\Debug\AccessSpcifier.pdb
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpcifier\obj\Debug\AccessSpcifier1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpcifier\obj\Debug\AccessSpcifier1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpcifier\obj\Debug\AccessSpcifier.exe
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpcifier\obj\Debug\AccessSpcifier.pdb

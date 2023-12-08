@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\obj\Debug\AccessSpecifier2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\obj\Debug\AccessSpecifier2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\bin\Debug\AccessSpecifier2.exe.config
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\bin\Debug\AccessSpecifier2.exe
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\bin\Debug\AccessSpecifier2.pdb
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\bin\Debug\AccessSpcifier.exe
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\bin\Debug\AccessSpcifier.pdb
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\bin\Debug\AccessSpcifier.exe.config
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\obj\Debug\AccessSpecifier2.csproj.CopyComplete
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\obj\Debug\AccessSpecifier2.exe
+C:\Users\User\Desktop\DotNet\Home\OOP\AccessSpcifier\AccessSpecifier2\obj\Debug\AccessSpecifier2.pdb
